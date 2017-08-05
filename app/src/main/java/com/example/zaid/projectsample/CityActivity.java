@@ -1,7 +1,9 @@
 package com.example.zaid.projectsample;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -11,6 +13,7 @@ import org.w3c.dom.Text;
 import static com.example.zaid.projectsample.MainActivity.count;
 
 public class CityActivity extends AppCompatActivity {
+    public static int counter;
     private ImageView iv1, iv2, iv3, iv4, iv5;
     private TextView tv1, tv2, tv3, tv4, tv5;
 
@@ -51,8 +54,96 @@ public class CityActivity extends AppCompatActivity {
                 Toast.makeText(getApplicationContext(), "WTF", Toast.LENGTH_SHORT).show();
         }
 
+        iv1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                counter=1;
+                Intent in = new Intent(CityActivity.this, PlaceActivity.class);
+                startActivity(in);
+            }
+        });
+
+        tv1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                counter=1;
+                Intent in = new Intent(CityActivity.this, PlaceActivity.class);
+                startActivity(in);
+            }
+        });
 
 
+        iv2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                counter=2;
+                Intent in = new Intent(CityActivity.this, PlaceActivity.class);
+                startActivity(in);
+            }
+        });
+
+        tv2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                counter=2;
+                Intent in = new Intent(CityActivity.this, PlaceActivity.class);
+                startActivity(in);
+            }
+        });
+
+        iv3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                counter=3;
+                Intent in = new Intent(CityActivity.this, PlaceActivity.class);
+                startActivity(in);
+            }
+        });
+
+        tv3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                counter=3;
+                Intent in = new Intent(CityActivity.this, PlaceActivity.class);
+                startActivity(in);
+            }
+        });
+
+        iv4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                counter=4;
+                Intent in = new Intent(CityActivity.this, PlaceActivity.class);
+                startActivity(in);
+            }
+        });
+
+        tv4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                counter=4;
+                Intent in = new Intent(CityActivity.this, PlaceActivity.class);
+                startActivity(in);
+            }
+        });
+
+        iv5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                counter=5;
+                Intent in = new Intent(CityActivity.this, PlaceActivity.class);
+                startActivity(in);
+            }
+        });
+
+        tv5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                counter=5;
+                Intent in = new Intent(CityActivity.this, PlaceActivity.class);
+                startActivity(in);
+            }
+        });
 
     }
 }

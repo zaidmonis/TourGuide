@@ -56,8 +56,6 @@
                     android:clickable="true"
                     android:background="#cce6ff"
                     android:src="@drawable/chennaii" />
-
-
             </LinearLayout>
         </ScrollView>
     </LinearLayout>

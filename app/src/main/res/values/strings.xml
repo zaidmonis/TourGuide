@@ -4,6 +4,7 @@
     <string name="wiki">Wikipedia</string>
     <string name="splash"></string>
 
+    <string name="email">monis.z.786@gmail.com</string>
 
     <string name="akshar">Akshardham Temple</string>
     <string name="tomb">Humayun\'s Tomb</string>
@@ -11,8 +12,30 @@
     <string name="qutub">Qutub Minar</string>
     <string name="bangla">Gurudwara Bangla Sahib</string>
 
+    <string name="qutub_desc">Qutub Minar is a minaret that forms part of the Qutb complex, a UNESCO World Heritage Site in the Mehrauli area of Delhi, India. Made of red sandstone and marble, Qutub Minar is a 73-metre (240 feet) tall tapering tower of five storeys, with a 14.3 metre (47 feet) base diameter, reducing to 2.7 metres (9 feet) at the peak. It contains a spiral staircase of 379 steps. Its design is thought to have been based on the Minaret of Jam, in western Afghanistan.
+
+Qutb al-Din Aibak, founder of the Delhi Sultanate, started construction of the Qutub Minar\'s first storey around 1192. In 1220, Aibak\'s successor and son-in-law Iltutmish completed a further three storeys. In 1369, a lightning strike destroyed the top storey. Firoz Shah Tughlaq replaced the damaged storey, and added one more.
+
+The Minar is surrounded by several historically significant monuments of the Qutb complex, including Quwwat-ul-Islam Mosque, which was built at the same time as the Minar, and the much older Iron Pillar of Delhi. The nearby pillared Cupola known as \"Smith\'s Folly\" is a remnant of the tower\'s 19th century restoration, which included an ill-advised attempt to add a sixth storey.</string>
+
+    <string name="loyus_desc">The Lotus Temple, located in Delhi, India, is a Bahá\'í House of Worship completed in 1986. Notable for its flowerlike shape, it has become a prominent attraction in the city. Like all Bahá\'í Houses of Worship, the Lotus Temple is open to all, regardless of religion or any other qualification. The building is composed of 27 free-standing marble-clad \"petals\" arranged in clusters of three to form nine sides, with nine doors opening onto a central hall with height of slightly over 40 metres and a capacity of 2,500 people. The Lotus Temple has won numerous architectural awards and been featured in hundreds of newspaper and magazine articles. A 2001 CNN report referred to it as the most visited building in the world.</string>
 
 
+    <string name="tomb_desc">Humayun\'s tomb (Maqbara e Humayun) is the tomb of the Mughal Emperor Humayun in Delhi, India. The tomb was commissioned by Humayun\'s first wife and chief consort, Empress Bega Begum (also known as Haji Begum), in 1569-70, and designed by Mirak Mirza Ghiyas, a Persian architect chosen by her. It was the first garden-tomb on the Indian subcontinent, and is located in Nizamuddin East, Delhi, India, close to the Dina-panah Citadel, also known as Purana Qila (Old Fort), that Humayun founded in 1533. It was also the first structure to use red sandstone at such a scale. The tomb was declared a UNESCO World Heritage Site in 1993,] and since then has undergone extensive restoration work, which is complete. Besides the main tomb enclosure of Humayun, several smaller monuments dot the pathway leading up to it, from the main entrance in the West, including one that even pre-dates the main tomb itself, by twenty years; it is the tomb complex of Isa Khan Niyazi, an Afghan noble in Sher Shah Suri\'s court of the Suri dynasty, who fought against the Mughals, constructed in 1547 CE.</string>
+
+
+    <string name="akshar_desc">The main attraction of the Swaminarayan Akshardham complex is the Akshardham Mandir. It rises 141-foot (43 m) high, spans 316-foot (96 m) wide, and extends 356-foot (109 m) long. It is intricately carved with flora, fauna, dancers, musicians, and deities.
+
+Designed in accordance with the standards of Maharishi Vastu Architecture, it features a blend of architectural styles across India. It is entirely constructed from Rajasthani pink sandstone and Italian Carrara marble. Based on traditional Hindu architectural guidelines (Shilpa shastras) on maximum temple life span, it makes no use of ferrous metal. Thus, it has no support from steel or concrete.
+
+The mandir also consists of 234 ornately carved pillars, nine domes, and 20,000 murtis of sadhus, devotees, and acharyas. The mandir also features the Gajendra Pith at its base, a plinth paying tribute to the elephant for its importance in Hindu culture and India\'s history. It contains 148 life sized elephants in total weighing a total of 3000 tons.
+
+Under the temple\'s central dome lies the 11-foot (3.4m) high murti of Swaminarayan seated in abhayamudra to whom the temple is dedicated. Swaminarayan is surrounded by images of the faith\'s lineage of Gurus depicted either in a devotional posture or in a posture of service. Each murti is made of paanch dhaatu or five metals in accordance to Hindu tradition. The temple also houses the murtis of Sita Ram, Radha Krishna, Shiv Parvati, and Lakshmi Narayan.</string>
+
+
+    <string name="bangla_desc">Gurudwara Bangla Sahib is one of the most prominent Sikh gurdwara, or Sikh house of worship, in Delhi, India and known for its association with the eighth Sikh Guru, Guru Har Krishan, as well as the pool inside its complex, known as the \"Sarovar.\" It ranked No 1 among the best tourist and pilgrimage spot in dehli (SURVEY-2017). It was first built as a small shrine by Sikh General Sardar Bhagel Singh in 1783, who supervised the construction of nine Sikh shrines in Delhi in the same year, during the reign of Mughal Emperor, Shah Alam II.
+
+It is situated near Connaught Place, New Delhi on Baba Kharak Singh Marg and it is instantly recognisable by its golden dome and tall flagpole, Nishan Sahib. Located next to it is the Sacred Heart Cathedral.</string>
 
 
 

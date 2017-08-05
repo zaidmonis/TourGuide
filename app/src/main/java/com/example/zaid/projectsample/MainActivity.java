@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity
     public static int count;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        count = 0;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
@@ -150,8 +151,11 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_manage) {
 
         } else if (id == R.id.nav_contact) {
+            Intent in = new Intent(MainActivity.this, ContactActivity.class);
+            startActivity(in);
 
         } else if (id == R.id.nav_feedback) {
+            count = 9;
             Intent in = new Intent(MainActivity.this, Main2Activity.class);
             startActivity(in);
         }
