@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="delhi">#FFE1D295</color>
+    <color name="kolkata">#FF8C9B66</color>
+    <color name="mumbai">#FFCE5544</color>
+    <color name="chennai">#FFCCE6FF</color>
+    <color name="material">#1aa496</color>
+    <color name="uprwala">#5955ff</color>
+    <color name="white">#ffffff</color>
+    <color name="trans">#00ffffff</color>
+</resources>

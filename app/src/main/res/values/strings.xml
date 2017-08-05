@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Project Sample</string>
+    <string name="cityLabel">About</string>
+    <string name="wiki">Wikipedia</string>
+    <string name="splash"></string>
+
+
+    <string name="akshar">Akshardham Temple</string>
+    <string name="tomb">Humayun\'s Tomb</string>
+    <string name="lotus">Lotus Temple</string>
+    <string name="qutub">Qutub Minar</string>
+    <string name="bangla">Gurudwara Bangla Sahib</string>
+
+
+
+
+
+
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="Delhi">Delhi, officially the National Capital Territory of Delhi or NCT, is a city and a union territory of India. It is bordered by Haryana on three sides and by Uttar Pradesh to the east. The NCT covers an area of 1,484 square kilometres (573 sq mi). According to 2011 census, Delhi\'s city population was about 11 million, the second highest in India after Mumbai, while the whole NCT population was about 16.8 million, making it the world\'s 3rd largest city proper by population. Delhi\'s urban area is now considered to extend beyond the NCT boundary to include an estimated population of over 26 million people making it the world\'s second largest urban area. As of 2016 recent estimates of the metro economy of its urban area have ranked Delhi either the top or second most productive metro area of India. Delhi is the second wealthiest city after Mumbai in India, with a total wealth of $450 billion and home to 18 billionaires and 23,000 millionaires.</string>
+    <string name="title_activity_delhi">DelhiActivity</string>
+    <string name="Mumbai">Mumbai (also known as Bombay, the official name until 1995) is the capital city of the Indian state of Maharashtra. It is the most populous city in India and the ninth most populous agglomeration in the world, with an estimated city population of 18.4 million. Along with the neighbouring regions of the Mumbai Metropolitan Region, it is one of the most populous urban regions in the world and the second most populous metropolitan area in India, with a population of 20.7 million as of 2011. Mumbai lies on the west coast of India and has a deep natural harbour. In 2008, Mumbai was named an alpha world city. It is also the wealthiest city in India, and has the highest GDP of any city in South, West, or Central Asia. Mumbai has the highest number of billionaires and millionaires among all cities in India.</string>
+    <string name="Kolkata">Kolkata (also known as Calcutta the official name until 2001) is the capital of the Indian state of West Bengal. Located on the east bank of the Hooghly River, it is the principal commercial, cultural, and educational centre of East India, while the Port of Kolkata is India\'s oldest operating port and its sole major riverine port. In 2011, the city had a population of 4.5 million, while the population of the city and its suburbs was 14.1 million, making it the third-most populous metropolitan area in India. Recent estimates of Kolkata Metropolitan Area\'s economy have ranged from $60 to $150 billion (GDP adjusted for purchasing power parity) making it third most-productive metropolitan area in India, after Mumbai and Delhi.</string>
+    <string name="Chennai">Chennai (formerly known as Madras) is the capital of the Indian state of Tamil Nadu. Located on the Coromandel Coast off the Bay of Bengal, it is one of the biggest cultural, economic and educational centres in South India. According to the 2011 Indian census (adjusted for the new limits of Chennai city), it is the fifth-largest city and fourth-most populous urban agglomeration in India. The city together with the adjoining regions constitute the Chennai Metropolitan Area, which is the 36th-largest urban area by population in the world. Chennai is among the most visited Indian cities by foreign tourists. It was ranked 43rd most visited city in the world for year 2015. The Quality of Living Survey rated Chennai as the safest city in India. Chennai attracts 45 percent of health tourists visiting India, and 30 to 40 percent of domestic health tourists. As such, it is termed \"India\'s health capital\". As a growing metropolitan city in a developing country, Chennai confronts substantial pollution and other logistical and socio-economic problems.</string>
+
+
+</resources>

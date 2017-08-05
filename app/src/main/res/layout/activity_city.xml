@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/cityLinear"
+    android:layout_height="match_parent"
+    tools:context="com.example.zaid.projectsample.CityActivity">
+    
+    
+    
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                
+                
+                
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:background="@color/delhi"
+                    android:id="@+id/iv_a"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="25sp"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/black"
+                    android:background="@color/delhi"
+                    android:clickable="true"
+                    android:id="@+id/tv_a"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/delhi"
+                    android:clickable="true"
+                    android:id="@+id/iv_b"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="25sp"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/black"
+                    android:background="@color/delhi"
+                    android:clickable="true"
+                    android:id="@+id/tv_b"/>
+
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/delhi"
+                    android:clickable="true"
+                    android:id="@+id/iv_c"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="25sp"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/black"
+                    android:background="@color/delhi"
+                    android:clickable="true"
+                    android:id="@+id/tv_c"/>
+
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/delhi"
+                    android:clickable="true"
+                    android:id="@+id/iv_d"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="25sp"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/black"
+                    android:background="@color/delhi"
+                    android:clickable="true"
+                    android:id="@+id/tv_d"/>
+
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/delhi"
+                    android:clickable="true"
+                    android:id="@+id/iv_e"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="25sp"
+                    android:textColor="@color/black"
+                    android:gravity="center_horizontal"
+                    android:background="@color/delhi"
+                    android:clickable="true"
+                    android:id="@+id/tv_e"/>
+
+
+
+                
+                
+                
+                
+                
+                
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>
