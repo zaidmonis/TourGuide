@@ -28,7 +28,7 @@
         android:layout_height="181dp"
         android:layout_below="@id/butIn"
         android:text="@string/email"
-        android:textSize="0sp"
+        android:textSize="1sp"
         android:autoLink="email"
         android:background="@drawable/gm"
         android:layout_centerHorizontal="true"/>

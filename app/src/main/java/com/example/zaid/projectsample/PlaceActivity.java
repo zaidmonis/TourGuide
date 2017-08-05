@@ -65,7 +65,7 @@ public class PlaceActivity extends AppCompatActivity {
                         uri="https://www.google.co.in/maps/dir//qutub+Minar/@28.5244101,77.1154156,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x390d1e0667819b4f:0x834995f160759db8!2m2!1d77.1854559!2d28.5244281";
                         break;
                     default:
-                        Toast.makeText(getApplicationContext(), "WTF Direction", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(getApplicationContext(), "WTF Direction is wrong", Toast.LENGTH_SHORT).show();
                 }
                 Intent in = new Intent(Intent.ACTION_VIEW, Uri.parse(uri));
                 startActivity(in);
