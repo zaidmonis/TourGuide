@@ -8,7 +8,7 @@
     android:layout_height="match_parent"
     tools:context="com.example.zaid.projectsample.CityActivity">
     
-    
+    <!--The Design will be Visible only on Run-Time because the sources and texts are added in Oncreate Method-->
     
     
     <LinearLayout
