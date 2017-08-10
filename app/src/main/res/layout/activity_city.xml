@@ -31,7 +31,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:clickable="true"
-                    android:background="@color/delhi"
+                    
                     android:id="@+id/iv_a"/>
                 <TextView
                     android:layout_width="match_parent"
@@ -39,14 +39,14 @@
                     android:textSize="25sp"
                     android:gravity="center_horizontal"
                     android:textColor="@color/black"
-                    android:background="@color/delhi"
+                    
                     android:clickable="true"
                     android:id="@+id/tv_a"/>
 
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/delhi"
+                    
                     android:clickable="true"
                     android:id="@+id/iv_b"/>
                 <TextView
@@ -55,7 +55,7 @@
                     android:textSize="25sp"
                     android:gravity="center_horizontal"
                     android:textColor="@color/black"
-                    android:background="@color/delhi"
+                    
                     android:clickable="true"
                     android:id="@+id/tv_b"/>
 
@@ -63,7 +63,7 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/delhi"
+                    
                     android:clickable="true"
                     android:id="@+id/iv_c"/>
                 <TextView
@@ -72,7 +72,7 @@
                     android:textSize="25sp"
                     android:gravity="center_horizontal"
                     android:textColor="@color/black"
-                    android:background="@color/delhi"
+                    
                     android:clickable="true"
                     android:id="@+id/tv_c"/>
 
@@ -80,7 +80,7 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/delhi"
+                    
                     android:clickable="true"
                     android:id="@+id/iv_d"/>
                 <TextView
@@ -89,7 +89,6 @@
                     android:textSize="25sp"
                     android:gravity="center_horizontal"
                     android:textColor="@color/black"
-                    android:background="@color/delhi"
                     android:clickable="true"
                     android:id="@+id/tv_d"/>
 
@@ -97,7 +96,6 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/delhi"
                     android:clickable="true"
                     android:id="@+id/iv_e"/>
                 <TextView
@@ -106,7 +104,6 @@
                     android:textSize="25sp"
                     android:textColor="@color/black"
                     android:gravity="center_horizontal"
-                    android:background="@color/delhi"
                     android:clickable="true"
                     android:id="@+id/tv_e"/>
 

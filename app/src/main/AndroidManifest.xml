@@ -6,7 +6,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/funny"
+        android:icon="@mipmap/guidel"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/funny"
         android:supportsRtl="true"
@@ -17,15 +17,11 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".Main2Activity" />
         <activity
-            android:name=".DelhiActivity"
-            android:label="@string/cityLabel"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
             android:name=".WikiActivity"
             android:label="@string/wiki" />
         <activity
             android:name=".SplashScreen"
-            android:label="Project Sample"
+            android:label="Tourist Guide"
             android:theme="@style/AppTheme.NoActionBar1">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

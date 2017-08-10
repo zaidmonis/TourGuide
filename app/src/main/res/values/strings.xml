@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Project Sample</string>
+    <string name="app_name">Tourist Guide</string>
     <string name="cityLabel">About</string>
     <string name="wiki">Wikipedia</string>
     <string name="splash"></string>
@@ -181,10 +181,10 @@ As of 2002 the gallery has been closed for tourists, due to several building fla
 
 
 <string name="george">Fort St. George</string>
-<string name="birlach">B.M Birla Planettarium</string>
+<string name="birlach">B.M Birla Planetarium</string>
 <string name="poong">Semmozhi Poonga</string>
 <string name="vada">Vadapalani Andavar Temple</string>
-<string name="art">Nationa Art Gallery</string>
+<string name="art">National Art Gallery</string>
 
 
 

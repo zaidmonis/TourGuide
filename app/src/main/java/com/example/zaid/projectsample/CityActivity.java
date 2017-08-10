@@ -39,17 +39,31 @@ public class CityActivity extends AppCompatActivity {
         switch (count){
             case 1:
 
-                setTitle("Delhi");
+                setTitle("Mumbai");
                 iv1.setImageResource(R.drawable.akshar);
+                iv1.setBackgroundColor(getResources().getColor(R.color.delhi));
+                tv1.setBackgroundColor(getResources().getColor(R.color.delhi));
                 tv1.setText(R.string.akshar);
+
                 iv2.setImageResource(R.drawable.bangla);
                 tv2.setText(R.string.bangla);
+                iv2.setBackgroundColor(getResources().getColor(R.color.delhi));
+                tv2.setBackgroundColor(getResources().getColor(R.color.delhi));
+
                 iv3.setImageResource(R.drawable.tomb);
                 tv3.setText(R.string.tomb);
+                iv3.setBackgroundColor(getResources().getColor(R.color.delhi));
+                tv3.setBackgroundColor(getResources().getColor(R.color.delhi));
+
                 iv4.setImageResource(R.drawable.lotus);
                 tv4.setText(R.string.lotus);
+                iv4.setBackgroundColor(getResources().getColor(R.color.delhi));
+                tv4.setBackgroundColor(getResources().getColor(R.color.delhi));
+
                 iv5.setImageResource(R.drawable.qutub);
                 tv5.setText(R.string.qutub);
+                iv5.setBackgroundColor(getResources().getColor(R.color.delhi));
+                tv5.setBackgroundColor(getResources().getColor(R.color.delhi));
                 break;
             case 4:
                 setTitle("Mumbai");
