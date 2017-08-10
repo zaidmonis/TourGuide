@@ -25,7 +25,6 @@ public class DelhiActivity extends AppCompatActivity
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        overridePendingTransition(R.anim.fadein, R.anim.fadeout);
         setContentView(R.layout.activity_delhi);
 
         tv= (TextView) findViewById(R.id.tv1);

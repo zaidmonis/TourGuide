@@ -6,11 +6,40 @@
 
     <string name="email">monis.z.786@gmail.com</string>
 
+
+
+    <string name="haji">Haji Ali Dargah</string>
+    <string name="vinayak">Siddhivinayak Temple</string>
+    <string name="india">Gateway of India</string>
+    <string name="nehru">Nehru Science Center</string>
+    <string name="udyaan">Jijamata Udyaan</string>
+
+
+
+
+
+
+
+
+
+
+
     <string name="akshar">Akshardham Temple</string>
     <string name="tomb">Humayun\'s Tomb</string>
     <string name="lotus">Lotus Temple</string>
     <string name="qutub">Qutub Minar</string>
     <string name="bangla">Gurudwara Bangla Sahib</string>
+
+
+
+
+
+
+
+
+
+
+
 
     <string name="qutub_desc">Qutub Minar is a minaret that forms part of the Qutb complex, a UNESCO World Heritage Site in the Mehrauli area of Delhi, India. Made of red sandstone and marble, Qutub Minar is a 73-metre (240 feet) tall tapering tower of five storeys, with a 14.3 metre (47 feet) base diameter, reducing to 2.7 metres (9 feet) at the peak. It contains a spiral staircase of 379 steps. Its design is thought to have been based on the Minaret of Jam, in western Afghanistan.
 
@@ -36,6 +65,200 @@ Under the temple\'s central dome lies the 11-foot (3.4m) high murti of Swaminara
     <string name="bangla_desc">Gurudwara Bangla Sahib is one of the most prominent Sikh gurdwara, or Sikh house of worship, in Delhi, India and known for its association with the eighth Sikh Guru, Guru Har Krishan, as well as the pool inside its complex, known as the \"Sarovar.\" It ranked No 1 among the best tourist and pilgrimage spot in dehli (SURVEY-2017). It was first built as a small shrine by Sikh General Sardar Bhagel Singh in 1783, who supervised the construction of nine Sikh shrines in Delhi in the same year, during the reign of Mughal Emperor, Shah Alam II.
 
 It is situated near Connaught Place, New Delhi on Baba Kharak Singh Marg and it is instantly recognisable by its golden dome and tall flagpole, Nishan Sahib. Located next to it is the Sacred Heart Cathedral.</string>
+
+
+
+
+
+
+
+    <string name="gateway">The Gateway of India is an arch monument built during the 20th century in Bombay, India. The monument was erected to commemorate the landing of King George V and Queen Mary at Apollo Bunder on their visit to India in 1911.
+
+Built in Indo-Saracenic style, the foundation stone for the Gateway of India was laid on 31 March 1911. The structure is an arch made of basalt, 26 metres (85 feet) high. The final design of George Wittet was sanctioned in 1914 and the construction of the monument was completed in 1924. The Gateway was later used as a symbolic ceremonial entrance to India for Viceroys and the new Governors of Bombay. It served to allow entry and access to India.
+
+The Gateway of India is located on the waterfront at Apollo Bunder area at the end of Chhatrapati Shivaji Marg in South Mumbai and overlooks the Arabian Sea. The monument has also been referred to as the Taj Mahal of Mumbai, and is the city\'s top tourist attraction.</string>
+
+
+
+
+
+<string name="dargah">The Haji Ali Dargah was constructed in 1431 in memory of a wealthy Muslim merchant, Sayyed Peer Haji Ali Shah Bukhari, who gave up all his worldly possessions before making a pilgrimage to Mecca. Hailing from Bukhara, in present-day Uzbekistan, Bukhari travelled around the world in the early to mid 15th century, and eventually settled in present-day Mumbai.
+
+According to legends surrounding his life, once the saint saw a poor woman crying on the road, holding an empty vessel. He asked her what the problem was, she sobbed that her husband would thrash her as she stumbled and accidentally spilled the oil she was carrying. He asked her to take him to the spot where she spilt the oil. There, he jabbed a finger into the soil and the oil gushed out. The overjoyed woman filled up the vessel and went home.
+
+Later, Pir Haji Ali Shah Bukhari had a recurring and disturbing dream that he had injured Earth by his act. Full of remorse and grief from that day he became very serious and was not keeping well. Then with the permission of his mother he traveled to India with his brother and finally reached the shore of Mumbai – near Worli or at some place opposite the present tomb. His brother went back to their native place. Pir Haji Ali Shah Bukhari sent a letter with him to their mother informing her that he was keeping good health and that he had decided to reside at that place permanently for the spread of Islam and that she should forgive him.
+
+Till his death he kept spreading knowledge about Islam to the people and his devotees would regularly visit him. Before his death he advised his followers that they should not bury him at any proper place or graveyard and should drop his shroud (\'kafan\') in the ocean such that it should be buried by the people where it is found.
+
+His wish was obeyed by his followers. That is why the Dargah Sharief is built at the very site where his shroud came to rest in the middle of the sea where it perched on a small mound of rocks rising above the sea. The Tomb and Dargah Sharief were built in the years to come.
+
+On Thursdays and Fridays, the shrine is visited by an enormous number of pilgrims. Irrespective of faith and religion, people visit the dargah to get the blessings of the legendary saint. Sometimes, especially on Fridays, various Sufi musicians perform a form of devotional music called Qawwali at the dargah.</string>
+
+    
+    
+
+<string name="center">Nehru Science Center (NSC) is the largest interactive science centre in India. It is located in Worli, Mumbai. The centre is named after India\'s first Prime Minister, Jawaharlal Nehru. In 1977, the centre started with the \'Light and Sight\' exhibition, and then in 1979 a Science Park was built. On 11 November 1985 it was opened to the public by Rajiv Gandhi, the then Prime Minister of India.
+
+In 1977, Nehru Science Centre, first conceived as a Science and Technology Museum in late sixties, took final shape as India\'s largest interactive science centre, to match the world trends in such public institutions. The centre opened its first semi-permanent exhibition `Light and Sight\' in 1977 followed by the world\'s first ever Science Park in 1979, during the International Year of the child. On 11 November 1985 the full-fledged science centre was finally opened to public by the late Rajiv Gandhi, then Prime Minister of India. It is the largest science centre in the country, and has a sprawling 8 acres (32,000 m2) of science park with varieties of plants, trees and shrubs. More than 500 hands-on and interactive science exhibits on energy, sound, kinematics, mechanics, transport, etc. are installed in the park. The NSC building, with its unique architecture, houses several permanent science expositions on various theme.</string>
+
+
+
+
+<string name="jija">Jijamata Udyaan formerly called Ranichi Bagh (meaning Queen\'s Gardens) after the original British name Victoria Gardens, and now also known as Veermata Jijabai Bhosale Udyan, is a zoo and garden located at Byculla, in the heart of Mumbai, India. It was laid out in 1861 and is one of the oldest zoos in India.
+
+Originally named for Queen Victoria, it is now named after Jijabai, mother of Shivaji.</string>
+
+
+
+<string name="siddhi">The Shree Siddhivinayak Ganapati Mandir is a Hindu temple dedicated to Lord Shri Ganesh. It is located in Prabhadevi, Mumbai, Maharashtra. It was originally built by Laxman Vithu and Deubai Patil on 19 November 1801.It is one of the richest temples in Mumbai.
+
+The temple has a small mandap with the shrine for Siddhi Vinayak ("Ganesha who grants your wish"). The wooden doors to the sanctum are carved with images of the Ashtavinayak (the eight manifestations of Ganesha in Maharashtra). The inner roof of the sanctum is plated with gold, and the central statue is of Ganesha. In the periphery, there is a Hanuman temple as well.</string>
+
+
+
+<string name="tipumos">The Tipu Sultan Shahi Mosque (also known as Tipu Sultan Masjid) is a famous mosque in Kolkata, India. Located at 185 Dhartamtalla Street, the mosque is a relic of architectural and cultural heritage. People from all sections of society and religions are allowed to visit and take pictures of this historical premises.
+This building was built in 1832 by Prince Ghulam Mohammed, the youngest son of Tipu Sultan. An identical mosque built later by the waqf committee is at Tollygunge. At first, Gholam Mohammed purchased a land in the central position of Calcutta and Built this beautiful mosque in 1842, in memory of his father Tipu Sultan. A news also was published, when he was purchased this land to build this big mosque. This mosque is a relic of architectural and cultural heritage of Kolkata. In early 80’s Tipu Sultan Masjid was damaged due to constructions works of Metro Railway in the Esplanade area. Nonetheless, after that, a committee was formed to repair the mosque. Afterward, the Mosque was restored with joint effort of Tipu Sultan Shahi Masjid Protection and Welfare Committee and Metro Railway.</string>
+
+
+
+
+<string name="birlaPlanet">The Birla Planetarium in Kolkata, West Bengal, India, is a single-storeyed circular structure designed in the typical Indian style, whose architecture is loosely styled on the Buddhist Stupa at Sanchi. Situated at Chowringhee Road adjacent to the Victoria Memorial, St. Paul\'s Cathedral, and the Maidan in South Kolkata, it is the largest planetarium in Asia and the second largest planetarium in the world. There are two other Birla Planetariums in India: B.M. Birla Planetarium in Chennai and the Birla Planetarium in Hyderabad.
+
+Popularly known as taramandal, the planetarium was inaugurated on 2 July 1963 by the then Prime Minister of India, Jawaharlal Nehru. It has an electronics laboratory for design and fabrication of science equipment. It has an astronomy gallery that maintains a huge collection of fine paintings and celestial models of renowned astronomers. The Planetarium also has an astronomical observatory equipped with a Celestron C-14 Telescope with accessories such as ST6 CCD camera and solar filter. It offers to the public and students more than 100 astronomical projects dealing with various facts of astronomy, astro-physics, Space Science as well as myths concerning stars and planets. It has a capacity of 680.</string>
+
+
+
+<string name="victor">The Victoria Memorial is a large marble building in Kolkata (formerly Calcutta), West Bengal, India, which was built between 1906 and 1921. It is dedicated to the memory of Queen Victoria (1819–1901) and is now a museum and tourist destination under the auspices of the Ministry of Culture. The memorial lies on the maidan (grounds) by the bank of the Hooghly River, near Jawaharlal Nehru road.
+
+In January 1901, on the death of Queen Victoria, George Curzon, 1st Marquess Curzon of Kedleston and Viceroy of India, suggested the creation of a fitting memorial. He proposed the construction of a grand building with a museum and gardens. Curzon said, \"Let us, therefore, have a building, stately, spacious, monumental and grand, to which every newcomer in Calcutta will turn, to which all the resident population, European and Native, will flock, where all classes will learn the lessons of history, and see revived before their eyes the marvels of the past.\"
+
+The Prince of Wales, later King George V, laid the foundation stone on 4 January 1906, and it was formally opened to the public in 1921.
+
+In 1912, before the construction of the Victoria Memorial was finished, King George V announced the transfer of the capital of India from Calcutta to New Delhi. Thus, the Victoria Memorial was built in what would be a provincial city rather than a capital.</string>
+
+
+
+<string name="dakshin">Dakshineswar Kali Temple is a Hindu temple located in Dakshineswar near Kolkata. Situated on the eastern bank of the Hooghly River, the presiding deity of the temple is Bhavatarini, an aspect of Kali, meaning, She who liberates Her devotees from the ocean of existence i.e. Saṃsāra. The temple was built in 1855 by Rani Rashmoni, a philanthropist and a devotee of Kali. The temple is famous for its association with Ramakrishna, a mystic of 19th Century Bengal.
+
+The temple compound, apart from the nine-spired main temple, contains a large courtyard surrounding the temple, with rooms along the boundary walls. There are twelve shrines dedicated to Shiva—Kali\'s companion—along the riverfront, a temple to Radha-Krishna, a bathing ghat on the river, a shrine dedicated to Rani Rashmoni. \'Nahavat-Khana\', the chamber in the northwestern corner just beyond the last of the Shiva temples, is where Ramakrishna spent a considerable part of his life.</string>
+
+
+
+<string name="belurMath">Beluṛ Maṭh (Bengali: বেলুড় মঠ) is the headquarters of the Ramakrishna Math and Mission, founded by Swami Vivekananda, a chief disciple of Ramakrishna Paramahamsa. It is located on the west bank of Hooghly River, Belur, West Bengal, India and is one of the significant institutions in Calcutta. This temple is the heart of the Ramakrishna Movement. The temple is notable for its architecture that fuses Hindu, Christian and Islamic motifs as a symbol of unity of all religions. In 2007 Belurmath railway station was also inaugurated which is dedicated to Belurmath temple</string>
+
+
+<string name="vict">Victoria Memorial</string>
+<string name="birla">Birla Planetarium</string>
+<string name="daksh">Dakshineshwar Kali Temple</string>
+<string name="belur">Belur Math</string>
+<string name="tipu">Tipu Sultan Shahi Mosque</string>
+
+
+
+
+<string name="stgeorge">Fort St George (or historically, White Town) is the name of the first English (later British) fortress in India, founded in 1644 at the coastal city of Madras, the modern city of Chennai. The construction of the fort provided the impetus for further settlements and trading activity, in what was originally an uninhabited land. Thus, it is a feasible contention to say that the city evolved around the fortress. The fort currently houses the Tamil Nadu legislative assembly and other official buildings. The fort is one of the 163 notified areas (megalithic sites) in the state of Tamil Nadu.</string>
+
+    
+<string name="birlachennai">B.M. Birla Planetarium is a large planetarium in Chennai providing a virtual tour of the night sky and holding cosmic shows on a specially perforated hemispherical aluminium inner dome. It is located at Kotturpuram in the Periyar Science and Technology Centre campus which houses eight galleries, namely, Physical Science, Electronics and Communication, Energy, Life Science, Innovation, Transport, International Dolls and Children and Materials Science, with over 500 exhibits. Built in 1988 in the memory of the great industrialist and visionary of India B. M. Birla, it is the most modern planetarium in India. There are two other Birla Planetariums in India, viz., the one in Kolkata known as M. P. Birla Planetarium and the other in Hyderabad, Tiruchirapalli and Coimbatore.</string>
+    
+    
+<string name="poonga">Semmozhi Poonga (literally translated to \"Classical Language Park\") is a botanical garden in Chennai set up by the horticulture department of the Government of Tamil Nadu. The garden was opened on 24 November 2010 by then chief Minister Dr.M. Karunanidhi and is the first botanical garden in the city. The garden is located in the Cathedral Road–Anna Salai junction, opposite the American Consulate, on the erstwhile Drive-in Woodlands Hotel. Encompassing an area of 20 acres (320 grounds), it was built at a cost of ₹ 80 million. More than 500 species of plants are being grown in the area, in addition to the 80 trees that was already in existence during the development of the park, some of them being more than 100 years old. The garden houses some of the popular exotic flora and rare plant species, medicinal and aromatic herbs. Many of the exotic plants are imported from countries like China and Thailand, including a plethora of bonsai varieties of ficus microcarpa and ficus ginseng.</string>
+
+
+<string name="vadapalani">Vadapalani Andavar Temple also called as Vadapalani Murugan Temple is a Hindu temple dedicated to Lord Muruga. It is located in Vadapalani, Chennai. It was renovated in the 1920s and a Rajagopuram was built during that time. The temple has grown in popularity, which is believed to be in part due to the patronage of cinema stars.
+
+Built around 1890, this temple began as a simple thatched shed. Around 7,000 couples marry there each year.
+According to the sthalapurana, Muruga devotee Annaswami Nayakar built the shed and kept a Murugan painting there for his personal worship. During his worship, he experienced divine power entering his body and inspiring him to speak surprising things later found to be true. His utterances were labeled \'arul vakku\' (\'God blessed statements\') and could cure diseases, provide jobs, solemnize marriages and more.</string>
+
+
+<string name="artgal">The National Art Gallery situated in Egmore, Chennai, is one of the oldest art galleries in India. Constructed with red stones sourced from Satyavedu in Andhra Pradesh, the Gallery was built in 1906 in Indo-Sarsenic architecture and houses paintings from Thanjavur, Rajasthan, Kangra and Deccan areas, as well as sandalwood sculptures. The Gallery has remained closed since 2002, as part of the structure suffered damage.
+
+The National Art Gallery was built during the celebration of Queen Victoria\'s Golden Jubilee in Indo-Saracenic style, designed by architect Henry Irwin. The Gallery has been identified as a Heritage site by the CMDA.
+
+As of 2002 the gallery has been closed for tourists, due to several building flaws and structural instability, which triggered severe criticism from art critics. However, several proposals for renovation are underway.</string>
+
+
+
+
+<string name="george">Fort St. George</string>
+<string name="birlach">B.M Birla Planettarium</string>
+<string name="poong">Semmozhi Poonga</string>
+<string name="vada">Vadapalani Andavar Temple</string>
+<string name="art">Nationa Art Gallery</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

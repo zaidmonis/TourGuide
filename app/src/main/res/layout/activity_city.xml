@@ -28,7 +28,7 @@
                 
                 
                 <ImageView
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:clickable="true"
                     android:background="@color/delhi"
@@ -44,7 +44,7 @@
                     android:id="@+id/tv_a"/>
 
                 <ImageView
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@color/delhi"
                     android:clickable="true"
@@ -61,7 +61,7 @@
 
 
                 <ImageView
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@color/delhi"
                     android:clickable="true"
@@ -78,7 +78,7 @@
 
 
                 <ImageView
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@color/delhi"
                     android:clickable="true"

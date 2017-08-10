@@ -6,9 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import org.w3c.dom.Text;
 
 import static com.example.zaid.projectsample.MainActivity.count;
 
@@ -21,6 +19,7 @@ public class CityActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_city);
+
 
 
 
@@ -39,6 +38,8 @@ public class CityActivity extends AppCompatActivity {
 
         switch (count){
             case 1:
+
+                setTitle("Delhi");
                 iv1.setImageResource(R.drawable.akshar);
                 tv1.setText(R.string.akshar);
                 iv2.setImageResource(R.drawable.bangla);
@@ -50,8 +51,88 @@ public class CityActivity extends AppCompatActivity {
                 iv5.setImageResource(R.drawable.qutub);
                 tv5.setText(R.string.qutub);
                 break;
-            default:
-                Toast.makeText(getApplicationContext(), "WTF", Toast.LENGTH_SHORT).show();
+            case 4:
+                setTitle("Mumbai");
+                iv1.setImageResource(R.drawable.india);
+                iv1.setBackgroundColor(getResources().getColor(R.color.mumbai));
+                tv1.setBackgroundColor(getResources().getColor(R.color.mumbai));
+                tv1.setText(R.string.india);
+
+                iv2.setImageResource(R.drawable.haji);
+                tv2.setText(R.string.haji);
+                iv2.setBackgroundColor(getResources().getColor(R.color.mumbai));
+                tv2.setBackgroundColor(getResources().getColor(R.color.mumbai));
+
+                iv3.setImageResource(R.drawable.vinayak);
+                tv3.setText(R.string.vinayak);
+                iv3.setBackgroundColor(getResources().getColor(R.color.mumbai));
+                tv3.setBackgroundColor(getResources().getColor(R.color.mumbai));
+
+                iv4.setImageResource(R.drawable.udyan);
+                tv4.setText(R.string.udyaan);
+                iv4.setBackgroundColor(getResources().getColor(R.color.mumbai));
+                tv4.setBackgroundColor(getResources().getColor(R.color.mumbai));
+
+                iv5.setImageResource(R.drawable.nehru);
+                tv5.setText(R.string.nehru);
+                iv5.setBackgroundColor(getResources().getColor(R.color.mumbai));
+                tv5.setBackgroundColor(getResources().getColor(R.color.mumbai));
+                break;
+            case 2:
+                setTitle("Kolkata");
+                iv1.setImageResource(R.drawable.vict);
+                iv1.setBackgroundColor(getResources().getColor(R.color.kolkata));
+                tv1.setBackgroundColor(getResources().getColor(R.color.kolkata));
+                tv1.setText(R.string.vict);
+
+                iv2.setImageResource(R.drawable.daksh);
+                tv2.setText(R.string.daksh);
+                iv2.setBackgroundColor(getResources().getColor(R.color.kolkata));
+                tv2.setBackgroundColor(getResources().getColor(R.color.kolkata));
+
+                iv3.setImageResource(R.drawable.belur);
+                tv3.setText(R.string.belur);
+                iv3.setBackgroundColor(getResources().getColor(R.color.kolkata));
+                tv3.setBackgroundColor(getResources().getColor(R.color.kolkata));
+
+                iv4.setImageResource(R.drawable.birla);
+                tv4.setText(R.string.birla);
+                iv4.setBackgroundColor(getResources().getColor(R.color.kolkata));
+                tv4.setBackgroundColor(getResources().getColor(R.color.kolkata));
+
+                iv5.setImageResource(R.drawable.tipu);
+                tv5.setText(R.string.tipu);
+                iv5.setBackgroundColor(getResources().getColor(R.color.kolkata));
+                tv5.setBackgroundColor(getResources().getColor(R.color.kolkata));
+                break;
+            case 3:
+                setTitle("Chennai");
+                iv1.setImageResource(R.drawable.george);
+                iv1.setBackgroundColor(getResources().getColor(R.color.chennai));
+                tv1.setBackgroundColor(getResources().getColor(R.color.chennai));
+                tv1.setText(R.string.george);
+
+                iv2.setImageResource(R.drawable.birlach);
+                tv2.setText(R.string.birlach);
+                iv2.setBackgroundColor(getResources().getColor(R.color.chennai));
+                tv2.setBackgroundColor(getResources().getColor(R.color.chennai));
+
+                iv3.setImageResource(R.drawable.poonga);
+                tv3.setText(R.string.poong);
+                iv3.setBackgroundColor(getResources().getColor(R.color.chennai));
+                tv3.setBackgroundColor(getResources().getColor(R.color.chennai));
+
+                iv4.setImageResource(R.drawable.vada);
+                tv4.setText(R.string.vada);
+                iv4.setBackgroundColor(getResources().getColor(R.color.chennai));
+                tv4.setBackgroundColor(getResources().getColor(R.color.chennai));
+
+                iv5.setImageResource(R.drawable.art);
+                tv5.setText(R.string.art);
+                iv5.setBackgroundColor(getResources().getColor(R.color.chennai));
+                tv5.setBackgroundColor(getResources().getColor(R.color.chennai));
+                break;
+
         }
 
         iv1.setOnClickListener(new View.OnClickListener() {
